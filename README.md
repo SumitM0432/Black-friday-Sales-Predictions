@@ -1,2 +1,0 @@
-# Black-friday-Sales-Predictions
-
